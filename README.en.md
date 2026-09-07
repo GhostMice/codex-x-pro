@@ -2,6 +2,8 @@
 
 This project is based on Codex-X. The sections below first describe the features added by Codex-X-Pro, followed by the original software documentation.
 
+This project can be used alongside the [破甲 repository](https://github.com/mtecoYY/ai-baike/tree/main/%E7%A0%B4%E7%94%B2).
+
 <p align="center">
   <a href="README.md"><img src="https://img.shields.io/badge/中文-切换-lightgrey" alt="中文" /></a>
   <a href="README.en.md"><img src="https://img.shields.io/badge/English-Current-blue" alt="English" /></a>
